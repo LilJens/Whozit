@@ -167,7 +167,7 @@ async function randomizeCharacter() {
     }
 
     char.textContent = randomName;
-    image.src = "../img/starwars/" + randomCharacter.image
+    image.src = "img/starwars/" + randomCharacter.image
     difficulty.innerHTML = "Svårhetsgrad: <br>" + difficulties[difficultyNumber];
     alreadyShownCharacters.push(randomName);
 
@@ -269,5 +269,5 @@ function endGame() {
         JSON.stringify(gameData)
     );
 
-    window.location.href = "../results.html";
+    window.location.href = "results.html";
 }
