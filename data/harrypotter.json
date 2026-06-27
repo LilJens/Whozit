@@ -1,0 +1,386 @@
+{
+  "Harry Potter": {
+    "bannedWords": {
+      "en": ["Wizard", "Scar", "Hogwarts", "Voldemort", "Glasses", "Trio"],
+      "sv": ["Trollkarl", "Ärr", "Hogwarts", "Voldemort", "Glasögon", "Trio"]
+    },
+    "difficulty": 1,
+    "image": "harry_potter.png"
+  },
+  "Hermione Granger": {
+    "bannedWords": {
+      "en": ["Smart", "Ron", "Harry", "Book", "Muggle-born", "Trio"],
+      "sv": ["Smart", "Ron", "Harry", "Bok", "Mugglarfödd", "Trio"]
+    },
+    "difficulty": 1,
+    "image": "hermione_granger.png"
+  },
+  "Ron Weasley": {
+    "bannedWords": {
+      "en": ["Red Hair", "Hermione", "Harry", "Weasley", "Rat", "Trio"],
+      "sv": ["Rött hår", "Hermione", "Harry", "Weasley", "Råtta", "Trio"]
+    },
+    "difficulty": 1,
+    "image": "ron_weasley.png"
+  },
+  "Albus Dumbledore": {
+    "bannedWords": {
+      "en": ["Headmaster", "Beard", "Elder Wand", "Phoenix", "Professor", "Old"],
+      "sv": ["Rektor", "Skägg", "Fläderstaven", "Fenix", "Professor", "Gammal"]
+    },
+    "difficulty": 1,
+    "image": "albus_dumbledore.png"
+  },
+  "Voldemort": {
+    "bannedWords": {
+      "en": ["Snake", "Dark Lord", "Nose", "Horcrux", "Death Eater", "Evil"],
+      "sv": ["Orm", "Mörkrets herre", "Näsa", "Horrokrux", "Dödsätare", "Ond"]
+    },
+    "difficulty": 1,
+    "image": "voldemort.png"
+  },
+  "Rubeus Hagrid": {
+    "bannedWords": {
+      "en": ["Half-Giant", "Keeper", "Beard", "Motorbike", "Creature"],
+      "sv": ["Halvjätte", "Vaktmästare", "Skägg", "Motorcykel", "Varelse"]
+    },
+    "difficulty": 1,
+    "image": "hagrid.png"
+  },
+  "Severus Snape": {
+    "bannedWords": {
+      "en": ["Potions", "Professor", "Lily", "Black Hair", "Slytherin"],
+      "sv": ["Trolldrycker", "Professor", "Lily", "Svart hår", "Slytherin"]
+    },
+    "difficulty": 1,
+    "image": "severus_snape.png"
+  },
+  "Draco Malfoy": {
+    "bannedWords": {
+      "en": ["Blond", "Slytherin", "Harry", "Father", "Pure-blood"],
+      "sv": ["Blond", "Slytherin", "Harry", "Pappa", "Renblod"]
+    },
+    "difficulty": 1,
+    "image": "draco_malfoy.png"
+  },
+  "Sirius Black": {
+    "bannedWords": {
+      "en": ["Dog", "Prison", "Godfather", "Azkaban", "Black", "Innocent"],
+      "sv": ["Hund", "Fängelse", "Gudfar", "Azkaban", "Black", "Oskyldig"]
+    },
+    "difficulty": 2,
+    "image": "sirius_black.png"
+  },
+  "Dobby": {
+    "bannedWords": {
+      "en": ["Elf", "Sock", "Free", "Master", "House"],
+      "sv": ["Alv", "Strumpa", "Fri", "Herre", "Hus"]
+    },
+    "difficulty": 2,
+    "image": "dobby.png"
+  },
+  "Luna Lovegood": {
+    "bannedWords": {
+      "en": ["Ravenclaw", "Spectrespecs", "Radish", "Quibbler", "Dreamy"],
+      "sv": ["Ravenclaw", "Glasögon", "Rädisa", "The Quibbler", "Drömmande"]
+    },
+    "difficulty": 2,
+    "image": "luna_lovegood.png"
+  },
+  "Neville Longbottom": {
+    "bannedWords": {
+      "en": ["Plant", "Toad", "Gryffindor", "Sword", "Professor"],
+      "sv": ["Växt", "Padda", "Gryffindor", "Svärd", "Professor"]
+    },
+    "difficulty": 2,
+    "image": "neville_longbottom.png"
+  },
+  "Bellatrix Lestrange": {
+    "bannedWords": {
+      "en": ["Crazy", "Death Eater", "Azkaban", "Voldemort", "Wand"],
+      "sv": ["Galen", "Dödsätare", "Azkaban", "Voldemort", "Stav"]
+    },
+    "difficulty": 2,
+    "image": "bellatrix_lestrange.png"
+  },
+  "Remus Lupin": {
+    "bannedWords": {
+      "en": ["Werewolf", "Moon", "Professor", "Marauder", "Wolf"],
+      "sv": ["Varulv", "Måne", "Professor", "Marodör", "Varg", "THE GOAT"]
+    },
+    "difficulty": 2,
+    "image": "remus_lupin.png"
+  },
+  "Dolores Umbridge": {
+    "bannedWords": {
+      "en": ["Pink", "Ministry", "Cats", "Professor", "Detention"],
+      "sv": ["Rosa", "Ministeriet", "Katter", "Professor", "Kvarsittning"]
+    },
+    "difficulty": 2,
+    "image": "dolores_umbridge.png"
+  },
+  "Cedric Diggory": {
+    "bannedWords": {
+      "en": ["Hufflepuff", "Triwizard", "Champion", "Robert Pattinson", "Cup"],
+      "sv": ["Hufflepuff", "Tretrollkarsturneringen", "Mästare", "Robert Pattinson", "Pokal"]
+    },
+    "difficulty": 2,
+    "image": "cedric_diggory.png"
+  },
+  "Lucius Malfoy": {
+    "bannedWords": {
+      "en": ["Cane", "Blond", "Father", "Death Eater", "Draco"],
+      "sv": ["Käpp", "Blond", "Pappa", "Dödsätare", "Draco"]
+    },
+    "difficulty": 2,
+    "image": "lucius_malfoy.png"
+  },
+  "Mad-Eye Moody": {
+    "bannedWords": {
+      "en": ["Eye", "Auror", "Constant Vigilance", "Professor", "Scar"],
+      "sv": ["Öga", "Auror", "Ständig vaksamhet", "Professor", "Ärr"]
+    },
+    "difficulty": 2,
+    "image": "mad_eye_moody.png"
+  },
+  "Horace Slughorn": {
+    "bannedWords": {
+      "en": ["Potions", "Club", "Professor", "Memory", "Slug"],
+      "sv": ["Trolldrycker", "Klubb", "Professor", "Minne", "Snigel"]
+    },
+    "difficulty": 2,
+    "image": "horace_slughorn.png"
+  },
+  "Kingsley Shacklebolt": {
+    "bannedWords": {
+      "en": ["Auror", "Minister", "Purple", "Order", "Bald"],
+      "sv": ["Auror", "Minister", "Lila", "Orden", "Skallig"]
+    },
+    "difficulty": 3,
+    "image": "kingsley_shacklebolt.png"
+  },
+  "Barty Crouch Jr.": {
+    "bannedWords": {
+      "en": ["Moody", "Death Eater", "Father", "Polyjuice", "Azkaban"],
+      "sv": ["Moody", "Dödsätare", "Pappa", "Polyjuice", "Azkaban"]
+    },
+    "difficulty": 3,
+    "image": "barty_crouch_jr.png"
+  },
+  "Filius Flitwick": {
+    "bannedWords": {
+      "en": ["Charms", "Professor", "Small", "Ravenclaw", "Choir"],
+      "sv": ["Besvärjelser", "Professor", "Liten", "Ravenclaw", "Kör"]
+    },
+    "difficulty": 3,
+    "image": "filius_flitwick.png"
+  },
+  "Kreacher": {
+    "bannedWords": {
+      "en": ["Elf", "Black Family", "House", "Regulus", "Old"],
+      "sv": ["Alv", "Familjen Black", "Hus", "Regulus", "Gammal"]
+    },
+    "difficulty": 3,
+    "image": "kreacher.png"
+  },
+  "Gilderoy Lockhart": {
+    "bannedWords": {
+      "en": ["Memory", "Professor", "Author", "Smile", "Blond"],
+      "sv": ["Minne", "Professor", "Författare", "Leende", "Blond"]
+    },
+    "difficulty": 3,
+    "image": "gilderoy_lockhart.png"
+  },
+  "Ginny Weasley": {
+    "bannedWords": {
+      "en": ["Harry", "Weasley", "Red Hair", "Quidditch", "Bat Bogey"],
+      "sv": ["Harry", "Weasley", "Rött hår", "Quidditch", "Fladdermusförbannelse"]
+    },
+    "difficulty": 1,
+    "image": "ginny_weasley.png"
+  },
+  "Minerva McGonagall": {
+    "bannedWords": {
+      "en": ["Professor", "Cat", "Transfiguration", "Deputy Headmistress", "Gryffindor"],
+      "sv": ["Professor", "Katt", "Förvandlingskonst", "Biträdande rektor", "Gryffindor"]
+    },
+    "difficulty": 1,
+    "image": "minerva_mcgonagall.png"
+  },
+  "Fred Weasley": {
+    "bannedWords": {
+      "en": ["George", "Twin", "Joke", "Weasley", "Shop", "Brother"],
+      "sv": ["George", "Tvilling", "Skämt", "Weasley", "Butik", "Bror"]
+    },
+    "difficulty": 1,
+    "image": "fred_weasley.png"
+  },
+  "George Weasley": {
+    "bannedWords": {
+      "en": ["Fred", "Twin", "Joke", "Weasley", "Ear"],
+      "sv": ["Fred", "Tvilling", "Skämt", "Weasley", "Öra"]
+    },
+    "difficulty": 1,
+    "image": "george_weasley.png"
+  },
+  "Cho Chang": {
+    "bannedWords": {
+      "en": ["Harry", "Ravenclaw", "Cedric", "Seeker", "Quidditch"],
+      "sv": ["Harry", "Ravenclaw", "Cedric", "Sökare", "Quidditch"]
+    },
+    "difficulty": 2,
+    "image": "cho_chang.png"
+  },
+  "Molly Weasley": {
+    "bannedWords": {
+      "en": ["Mother", "Weasley", "Children", "Burrow", "Family"],
+      "sv": ["Mamma", "Weasley", "Barn", "Kråkslottet", "Familj"]
+    },
+    "difficulty": 2,
+    "image": "molly_weasley.png"
+  },
+  "Arthur Weasley": {
+    "bannedWords": {
+      "en": ["Ministry", "Muggle", "Weasley", "Father", "Car"],
+      "sv": ["Ministeriet", "Mugglar", "Weasley", "Pappa", "Bil"]
+    },
+    "difficulty": 2,
+    "image": "arthur_weasley.png"
+  },
+  "Nymphadora Tonks": {
+    "bannedWords": {
+      "en": ["Metamorphmagus", "Pink Hair", "Auror", "Lupin", "Tonks"],
+      "sv": ["Metamorfmagus", "Rosa hår", "Auror", "Lupin", "Tonks"]
+    },
+    "difficulty": 2,
+    "image": "nymphadora_tonks.png"
+  },
+  "Peter Pettigrew": {
+    "bannedWords": {
+      "en": ["Rat", "Wormtail", "Voldemort", "Marauder", "Scabbers"],
+      "sv": ["Råtta", "Masksvans", "Voldemort", "Marodör", "Scabbers"]
+    },
+    "difficulty": 2,
+    "image": "peter_pettigrew.png"
+  },
+  "Sybill Trelawney": {
+  "bannedWords": {
+    "en": ["Professor", "Prophecy", "Divination", "Seer", "Glasses"],
+    "sv": ["Professor", "Profetia", "Spådomskonst", "Siare", "Glasögon"]
+  },
+  "difficulty": 2,
+  "image": "sybill_trelawney.png"
+  },
+  "Dean Thomas": {
+    "bannedWords": {
+      "en": ["Gryffindor", "Football", "Ginny", "Student", "Seamus"],
+      "sv": ["Gryffindor", "Fotboll", "Ginny", "Elev", "Seamus"]
+    },
+    "difficulty": 3,
+    "image": "dean_thomas.png"
+  },
+  "Seamus Finnigan": {
+    "bannedWords": {
+      "en": ["Explosion", "Dean", "Gryffindor", "Irish", "Student"],
+      "sv": ["Explosion", "Dean", "Gryffindor", "Irländsk", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "seamus_finnigan.png"
+  },
+  "Lavender Brown": {
+    "bannedWords": {
+      "en": ["Ron", "Gryffindor", "Rabbit", "Boyfriend", "Student"],
+      "sv": ["Ron", "Gryffindor", "Kanin", "Pojkvän", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "lavender_brown.png"
+  },
+  "Parvati Patil": {
+    "bannedWords": {
+      "en": ["Twin", "Padma", "Yule Ball", "Gryffindor", "Student"],
+      "sv": ["Tvilling", "Padma", "Julbalen", "Gryffindor", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "parvati_patil.png"
+  },
+  "Padma Patil": {
+    "bannedWords": {
+      "en": ["Twin", "Parvati", "Ravenclaw", "Yule Ball", "Student"],
+      "sv": ["Tvilling", "Parvati", "Ravenclaw", "Julbalen", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "padma_patil.png"
+  },
+  "James Potter": {
+    "bannedWords": {
+      "en": ["Father", "Lily", "Prongs", "Marauder", "Animagus"],
+      "sv": ["Pappa", "Lily", "Tagghorn", "Marodör", "Animagus"]
+  },
+  "difficulty": 2,
+  "image": "james_potter.png"
+  },
+  "Vincent Crabbe": {
+    "bannedWords": {
+      "en": ["Draco", "Goyle", "Slytherin", "Fire", "Student"],
+      "sv": ["Draco", "Goyle", "Slytherin", "Eld", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "vincent_crabbe.png"
+  },
+  "Gregory Goyle": {
+    "bannedWords": {
+      "en": ["Draco", "Crabbe", "Slytherin", "Bodyguard", "Student"],
+      "sv": ["Draco", "Crabbe", "Slytherin", "Livvakt", "Elev"]
+    },
+    "difficulty": 3,
+    "image": "gregory_goyle.png"
+  },
+  "Oliver Wood": {
+    "bannedWords": {
+      "en": ["Quidditch", "Keeper", "Captain", "Gryffindor", "Team"],
+      "sv": ["Quidditch", "Målvakt", "Kapten", "Gryffindor", "Lag"]
+    },
+    "difficulty": 3,
+    "image": "oliver_wood.png"
+  },
+  "Argus Filch": {
+    "bannedWords": {
+      "en": ["Caretaker", "Mrs Norris", "Cat", "Squib", "Hallway"],
+      "sv": ["Vaktmästare", "Mrs Norris", "Katt", "Squib", "Korridor"]
+    },
+    "difficulty": 2,
+    "image": "argus_filch.png"
+  },
+  "Vernon Dursley": {
+    "bannedWords": {
+      "en": ["Uncle", "Dursley", "Mustache", "Drill", "Privet Drive"],
+      "sv": ["Farbror", "Dursley", "Mustasch", "Borrmaskin", "Privet Drive"]
+    },
+    "difficulty": 3,
+    "image": "vernon_dursley.png"
+  },
+  "Petunia Dursley": {
+    "bannedWords": {
+      "en": ["Aunt", "Lily", "Dursley", "Sister", "Privet Drive"],
+      "sv": ["Faster", "Lily", "Dursley", "Syster", "Privet Drive"]
+    },
+    "difficulty": 3,
+    "image": "petunia_dursley.png"
+  },
+  "Lily Potter": {
+    "bannedWords": {
+      "en": ["Mother", "James", "Snape", "Green Eyes", "Sacrifice"],
+      "sv": ["Mamma", "James", "Snape", "Gröna ögon", "Uppoffring"]
+    },
+    "difficulty": 3,
+    "image": "lily_potter.png"
+  },
+  "Dudley Dursley": {
+  "bannedWords": {
+    "en": ["Cousin", "Bully", "Dursley", "Spoiled", "Boxing"],
+    "sv": ["Kusin", "Mobbare", "Dursley", "Bortskämd", "Boxning"]
+  },
+  "difficulty": 3,
+  "image": "dudley_dursley.png"
+  }
+}

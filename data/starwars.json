@@ -1,0 +1,656 @@
+{
+    "Anakin Skywalker": {
+        "bannedWords": {
+            "en": [
+                "Darth Vader",
+                "Sith",
+                "Chosen One"
+            ],
+            "sv": [
+                "Darth Vader",
+                "Sith",
+                "Den utvalde"
+            ]
+        },
+        "difficulty": 1,
+        "image": "anakin_skywalker.png"
+    },
+    "Luke Skywalker": {
+        "bannedWords": {
+            "en": [
+                "Son",
+                "Jedi",
+                "Tatooine",
+                "Leia",
+                "Brother"
+            ],
+            "sv": [
+                "Son",
+                "Jedi",
+                "Tatooine",
+                "Leia",
+                "Bror"
+            ]
+        },
+        "difficulty": 1,
+        "image": "luke_skywalker.png"
+    },
+    "Obi-Wan Kenobi": {
+        "bannedWords": {
+            "en": [
+                "Jedi",
+                "Master",
+                "Anakin",
+                "General",
+                "Kenobi"
+            ],
+            "sv": [
+                "Jedi",
+                "Mästare",
+                "Anakin",
+                "General",
+                "Kenobi"
+            ]
+        },
+        "difficulty": 1,
+        "image": "obi_wan_kenobi.png"
+    },
+    "Yoda": {
+        "bannedWords": {
+            "en": [
+                "Jedi",
+                "Master",
+                "Green",
+                "Small",
+                "Force"
+            ],
+            "sv": [
+                "Jedi",
+                "Mästare",
+                "Grön",
+                "Liten",
+                "Kraften"
+            ]
+        },
+        "difficulty": 1,
+        "image": "yoda.png"
+    },
+    "Leia Organa": {
+        "bannedWords": {
+            "en": [
+                "Princess",
+                "Luke",
+                "Alderaan",
+                "Rebel",
+                "Sister"
+            ],
+            "sv": [
+                "Prinsessa",
+                "Luke",
+                "Alderaan",
+                "Rebell",
+                "Syster"
+            ]
+        },
+        "difficulty": 1,
+        "image": "leia_organa.png"
+    },
+    "Han Solo": {
+        "bannedWords": {
+            "en": [
+                "Millenium / Falcon",
+                "Chewbacca",
+                "Smuggler",
+                "Pilot",
+                "Leia"
+            ],
+            "sv": [
+                "Millenium / Falcon",
+                "Chewbacca",
+                "Smugglare",
+                "Pilot",
+                "Leia"
+            ]
+        },
+        "difficulty": 1,
+        "image": "han_solo.png"
+    },
+    "Chewbacca": {
+        "bannedWords": {
+            "en": [
+                "Wookiee",
+                "Han Solo",
+                "Millenium / Falcon",
+                "Furry",
+                "Roar"
+            ],
+            "sv": [
+                "Wookiee",
+                "Han Solo",
+                "Millenium / Falcon",
+                "Hårig",
+                "Vrål"
+            ]
+        },
+        "difficulty": 1,
+        "image": "chewbacca.png"
+    },
+    "Emperor Palpatine": {
+        "bannedWords": {
+            "en": [
+                "Emperor",
+                "Sidious",
+                "Sith",
+                "Lightning",
+                "Senate"
+            ],
+            "sv": [
+                "Emperor / Kejsare",
+                "Sidious",
+                "Sith",
+                "Blixt",
+                "Senaten"
+            ]
+        },
+        "difficulty": 2,
+        "image": "palpatine.png"
+    },
+    "Darth Maul": {
+        "bannedWords": {
+            "en": [
+                "Red",
+                "Horns",
+                "Double",
+                "Sith",
+                "Tattoo"
+            ],
+            "sv": [
+                "Röd",
+                "Horn",
+                "Dubbel",
+                "Sith",
+                "Tatuering"
+            ]
+        },
+        "difficulty": 2,
+        "image": "darth_maul.png"
+    },
+    "Qui-Gon Jinn": {
+        "bannedWords": {
+            "en": [
+                "Jedi",
+                "Obi-Wan",
+                "Master",
+                "Anakin",
+                "Mentor"
+            ],
+            "sv": [
+                "Jedi",
+                "Obi-Wan",
+                "Mästare",
+                "Anakin",
+                "Mentor"
+            ]
+        },
+        "difficulty": 2,
+        "image": "qui_gon_jinn.png"
+    },
+    "Mace Windu": {
+        "bannedWords": {
+            "en": [
+                "Purple",
+                "Jedi",
+                "Council",
+                "Master",
+                "Lightsaber"
+            ],
+            "sv": [
+                "Lila",
+                "Jedi",
+                "Rådet",
+                "Mästare",
+                "Lasersvärd / Ljussabel"
+            ]
+        },
+        "difficulty": 2,
+        "image": "mace_windu.png"
+    },
+    "Padmé Amidala": {
+        "bannedWords": {
+            "en": [
+                "Queen",
+                "Senator",
+                "Anakin",
+                "Naboo",
+                "Mother"
+            ],
+            "sv": [
+                "Drottning",
+                "Senator",
+                "Anakin",
+                "Naboo",
+                "Mamma"
+            ]
+        },
+        "difficulty": 2,
+        "image": "padme_amidala.png"
+    },
+    "R2-D2": {
+        "bannedWords": {
+            "en": [
+                "Droid",
+                "Blue",
+                "Small",
+                "Robot"
+            ],
+            "sv": [
+                "Droid",
+                "Blå",
+                "Liten",
+                "Robot"
+            ]
+        },
+        "difficulty": 1,
+        "image": "r2d2.png"
+    },
+    "C-3PO": {
+        "bannedWords": {
+            "en": [
+                "Droid",
+                "Gold",
+                "Protocol",
+                "Robot",
+                "Translation",
+                "Anakin"
+            ],
+            "sv": [
+                "Droid",
+                "Guld",
+                "Protokoll",
+                "Robot",
+                "Översättning",
+                "Anakin"
+            ]
+        },
+        "difficulty": 1,
+        "image": "c3po.png"
+    },
+    "Boba Fett": {
+        "bannedWords": {
+            "en": [
+                "Bounty",
+                "Hunter",
+                "Armor",
+                "Jetpack",
+                "Mandalorian"
+            ],
+            "sv": [
+                "Prisjägare",
+                "Jägare",
+                "Rustning",
+                "Jetpack",
+                "Mandalorian"
+            ]
+        },
+        "difficulty": 2,
+        "image": "boba_fett.png"
+    },
+    "Jango Fett": {
+        "bannedWords": {
+            "en": [
+                "Boba",
+                "Clone",
+                "Armor",
+                "Mandalorian",
+                "Father"
+            ],
+            "sv": [
+                "Boba",
+                "Klon",
+                "Rustning",
+                "Mandalorian",
+                "Pappa"
+            ]
+        },
+        "difficulty": 2,
+        "image": "jango_fett.png"
+    },
+    "Rey": {
+        "bannedWords": {
+            "en": [
+                "Jakku",
+                "Skywalker",
+                "Force",
+                "Scavenger",
+                "Palpatine"
+            ],
+            "sv": [
+                "Jakku",
+                "Skywalker",
+                "Kraften",
+                "Skrotskrapare",
+                "Palpatine"
+            ]
+        },
+        "difficulty": 2,
+        "image": "rey.png"
+    },
+    "Kylo Ren": {
+        "bannedWords": {
+            "en": [
+                "Ben Solo",
+                "Han Solo",
+                "Leia",
+                "Mask",
+                "Lightsaber",
+                "Supercool lightsaber (tooo obvious)"
+            ],
+            "sv": [
+                "Ben Solo",
+                "Han Solo",
+                "Leia",
+                "Mask",
+                "Lasersvärd / Ljussabel",
+                "As-coolt lasersvärd (fööör obvious)"
+            ]
+        },
+        "difficulty": 2,
+        "image": "kylo_ren.png"
+    },
+    "Finn": {
+        "bannedWords": {
+            "en": [
+                "Stormtrooper",
+                "FN-2187",
+                "Rey",
+                "First Order"
+            ],
+            "sv": [
+                "Stormtrooper",
+                "FN-2187",
+                "Rey",
+                "Första Orden"
+            ]
+        },
+        "difficulty": 2,
+        "image": "finn.png"
+    },
+    "Jabba the Hutt": {
+        "bannedWords": {
+            "en": [
+                "Fat",
+                "Green",
+                "Slimy",
+                "Hostage"
+            ],
+            "sv": [
+                "Tjock",
+                "Grön",
+                "Slimig",
+                "Tillfånga ta"
+            ]
+        },
+        "difficulty": 2,
+        "image": "jabba_the_hutt.png"
+    },
+    "BB-8": {
+        "bannedWords": {
+            "en": [
+                "Droid",
+                "Ball",
+                "Orange",
+                "Robot",
+                "Rolling"
+            ],
+            "sv": [
+                "Droid",
+                "Boll",
+                "Orange",
+                "Robot",
+                "Rullar"
+            ]
+        },
+        "difficulty": 3,
+        "image": "bb8.png"
+    },
+    "Grogu": {
+        "bannedWords": {
+            "en": [
+                "Baby",
+                "Yoda",
+                "Child",
+                "Green",
+                "Mandalorian"
+            ],
+            "sv": [
+                "Baby",
+                "Yoda",
+                "Barn",
+                "Grön",
+                "Mandalorian"
+            ]
+        },
+        "difficulty": 2,
+        "image": "grogu.png"
+    },
+    "The Mandalorian": {
+        "bannedWords": {
+            "en": [
+                "Din Djarin",
+                "Grogu",
+                "Helmet",
+                "Bounty"
+            ],
+            "sv": [
+                "Din Djarin",
+                "Grogu",
+                "Hjälm",
+                "Pris"
+            ]
+        },
+        "difficulty": 2,
+        "image": "the_mandalorian.png"
+    },
+    "Ki-Adi-Mundi": {
+        "bannedWords": {
+            "en": [
+                "Forehead / Head",
+                "Master",
+                "Council",
+                "Old"
+            ],
+            "sv": [
+                "Panna / Huvud",
+                "Mästare",
+                "Rådet",
+                "Gammal"
+            ]
+        },
+        "difficulty": 3,
+        "image": "ki_adi_mundi.png"
+    },
+    "Kit Fisto": {
+        "bannedWords": {
+            "en": [
+                "Green",
+                "Master",
+                "Council"
+            ],
+            "sv": [
+                "Grön",
+                "Mästare",
+                "Rådet"
+            ]
+        },
+        "difficulty": 3,
+        "image": "kit_fisto.png"
+    },
+    "Plo Koon": {
+        "bannedWords": {
+            "en": [
+                "Master",
+                "Council",
+                "Electric Judgement / Force Lighting"
+            ],
+            "sv": [
+                "Mästare",
+                "Council",
+                "Electric Judgement / Force Lighting"
+            ]
+        },
+        "difficulty": 3,
+        "image": "plo_koon.png"
+    },
+    "Count Dooku": {
+        "bannedWords": {
+            "en": ["Sith", "Tyranus", "Christopher Lee", "Curved Lightsaber", "Separatists"],
+            "sv": ["Sith", "Tyranus", "Christopher Lee", "Böjt lasersvärd", "Separatisterna"]
+        },
+        "difficulty": 2,
+        "image": "count_dooku.png"
+    },
+    "General Grievous": {
+        "bannedWords": {
+            "en": ["Four Arms", "Cyborg", "Lightsabers", "Cough", "Separatists"],
+            "sv": ["Fyra armar", "Cyborg", "Lasersvärd", "Hosta", "Separatisterna"]
+        },
+        "difficulty": 2,
+        "image": "general_grievous.png"
+    },
+    "Lando Calrissian": {
+        "bannedWords": {
+            "en": ["Cloud City", "Han Solo", "Administrator", "Cape", "Millennium Falcon"],
+            "sv": ["Molnstaden", "Han Solo", "Administratör", "Cape", "Millennium Falcon"]
+        },
+        "difficulty": 2,
+        "image": "lando.png"
+    },
+    "Grand Moff Tarkin": {
+        "bannedWords": {
+            "en": ["Death Star", "Governor", "Empire", "Alderaan", "Officer"],
+            "sv": ["Dödsstjärnan", "Guvernör", "Imperiet", "Alderaan", "Officer"]
+        },
+        "difficulty": 3,
+        "image": "grand_moff_tarkin.png"
+    },
+    "Admiral Ackbar": {
+        "bannedWords": {
+            "en": ["Trap", "Mon Calamari", "Admiral", "Fish", "Fleet"],
+            "sv": ["Fälla", "Mon Calamari", "Amiral", "Fisk", "Flotta"]
+        },
+        "difficulty": 2,
+        "image": "admiral_ackbar.png"
+    },
+    "Nute Gunray": {
+        "bannedWords": {
+            "en": ["Trade Federation", "Viceroy", "Neimoidian", "Separatists", "Blockade"],
+            "sv": ["Handelsfederationen", "Vicekung", "Neimoidian", "Separatisterna", "Blockad"]
+        },
+        "difficulty": 3,
+        "image": "nute_gunray.png"
+    },
+    "Ahsoka Tano": {
+        "bannedWords": {
+            "en": ["Anakin", "Padawan", "Togruta", "Clone Wars", "Orange", "Grogu / Baby Yoda"],
+            "sv": ["Anakin", "Padawan", "Togruta", "Klonkrigen", "Orange", "Grogu / Baby Yoda"]
+        },
+        "difficulty": 2,
+        "image": "ahsoka_tano.png"
+    },
+    "Bail Organa": {
+        "bannedWords": {
+            "en": ["Leia", "Alderaan", "Senator", "Adoptive Father", "Rebellion"],
+            "sv": ["Leia", "Alderaan", "Senator", "Adoptivpappa", "Rebellionen"]
+        },
+        "difficulty": 3,
+        "image": "bail_organa.png"
+    },
+    "Bib Fortuna": {
+        "bannedWords": {
+            "en": ["Jabba", "Twi'lek", "Majordomo", "Palace", "Advisor"],
+            "sv": ["Jabba", "Twi'lek", "Förvaltare", "Palats", "Rådgivare"]
+        },
+        "difficulty": 3,
+        "image": "bib_fortuna.png"
+    },
+    "Bossk": {
+        "bannedWords": {
+            "en": ["Bounty Hunter", "Trandoshan", "Reptile", "Boba Fett", "Yellow"],
+            "sv": ["Prisjägare", "Trandoshan", "Reptil", "Boba Fett", "Gul"]
+        },
+        "difficulty": 3,
+        "image": "bossk.png"
+    },
+    "IG-88": {
+        "bannedWords": {
+            "en": ["Droid", "Bounty Hunter", "Robot", "Assassin", "Metal"],
+            "sv": ["Droid", "Prisjägare", "Robot", "Lönnmördare", "Metall"]
+        },
+        "difficulty": 3,
+        "image": "ig88.png"
+    },
+    "Greedo": {
+        "bannedWords": {
+            "en": ["Han Solo", "Cantina", "Rodian", "Bounty", "Shot First"],
+            "sv": ["Han Solo", "Cantina", "Rodian", "Pris", "Sköt först"]
+        },
+        "difficulty": 2,
+        "image": "greedo.png"
+    },
+    "Owen Lars": {
+        "bannedWords": {
+            "en": ["Luke", "Uncle", "Farm", "Tatooine", "Moisture"],
+            "sv": ["Luke", "Farbror", "Gård", "Tatooine", "Fukt"]
+        },
+        "difficulty": 3,
+        "image": "owen_lars.png"
+    },
+    "Beru Lars": {
+        "bannedWords": {
+            "en": ["Luke", "Aunt", "Farm", "Tatooine", "Owen"],
+            "sv": ["Luke", "Faster", "Gård", "Tatooine", "Owen"]
+        },
+        "difficulty": 3,
+        "image": "beru_lars.png"
+    },
+    "Captain Panaka": {
+        "bannedWords": {
+            "en": ["Naboo", "Queen", "Security", "Padmé", "Captain"],
+            "sv": ["Naboo", "Drottning", "Säkerhet", "Padmé", "Kapten"]
+        },
+        "difficulty": 3,
+        "image": "captain_panaka.png"
+    },
+    "Watto": {
+        "bannedWords": {
+            "en": ["Toydarian", "Blue", "Shop", "Slave", "Tatooine"],
+            "sv": ["Toydarian", "Blå", "Butik", "Slav", "Tatooine"]
+        },
+        "difficulty": 2,
+        "image": "watto.png"
+    },
+    "Shmi Skywalker": {
+        "bannedWords": {
+            "en": ["Anakin", "Mother", "Slave", "Tatooine", "Lars"],
+            "sv": ["Anakin", "Mamma", "Slav", "Tatooine", "Lars"]
+        },
+        "difficulty": 2,
+        "image": "shmi_skywalker.png"
+    },
+    "Dexter Jettster": {
+        "bannedWords": {
+            "en": ["Diner", "Cook", "Obi-Wan", "Kamino", "Friend"],
+            "sv": ["Restaurang", "Kock", "Obi-Wan", "Kamino", "Vän"]
+        },
+        "difficulty": 3,
+        "image": "dexter_jettster.png"
+    },
+    "Sebulba": {
+        "bannedWords": {
+            "en": ["Podrace", "Slave", "Anakin", "Tatooine"],
+            "sv": ["Podrace", "Slav", "Anakin", "Tatooine"]
+        },
+        "difficulty": 2,
+        "image": "sebulba.png"
+    }
+}

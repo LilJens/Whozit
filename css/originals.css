@@ -1,0 +1,12 @@
+body {
+    height: 100%;
+    width: 100%;
+    background: rgb(17, 17, 24) fixed;
+}
+
+p, h1, h2, h3, h4, h5, h6, a, button, li {
+    color: white;
+    font-family: Fredoka One;
+    text-decoration: none;
+    margin: 0;
+}

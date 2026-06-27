@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whozit - Results</title>
+
+    <link rel="stylesheet" href="/css/originals.css">
+    <link rel="stylesheet" href="/css/navbar.css">
+    <link rel="stylesheet" href="/css/results.css">
+</head>
+
+<body>
+
+<div class="navbar">
+    <a href="/index.html" class="navbar-home navbar-a">Home</a>
+</div>
+
+<div class="container">
+
+    <div class="results-card">
+
+        <h1>Spel Över</h1>
+
+        <div class="stats">
+
+            <div class="stat">
+                <h2 id="correct">0</h2>
+                <p>Rätt</p>
+            </div>
+
+            <div class="stat">
+                <h2 id="wrong">0</h2>
+                <p>Fel</p>
+            </div>
+
+            <div class="stat">
+                <h2 id="skipped">0</h2>
+                <p>Skippade</p>
+            </div>
+
+        </div>
+
+        <h2 class="history-title">Karaktärer</h2>
+
+        <div id="history" class="history">
+
+        </div>
+
+        <div class="buttons">
+            <button onclick="playAgain()">
+                Spela Igen
+            </button>
+
+            <button onclick="home()">
+                Hem
+            </button>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="/js/results.js"></script>
+
+</body>
+</html>
