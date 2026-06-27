@@ -167,6 +167,11 @@ async function randomizeCharacter() {
     }
 
     char.textContent = randomName;
+
+    image.onerror = () => {
+        image.src = "img/icons/GoatAsianDude.png";
+    };
+
     image.src = "img/starwars/" + randomCharacter.image
     difficulty.innerHTML = "Svårhetsgrad: <br>" + difficulties[difficultyNumber];
     alreadyShownCharacters.push(randomName);
