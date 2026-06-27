@@ -49,18 +49,18 @@ function playAgain() {
     sessionStorage.setItem("timer", startTimer);
 
     if (game == "Starwars") {
-        window.location.href = "../starwars.html";
+        window.location.href = "starwars.html";
     } else if (game == "Harrypotter") {
-        window.location.href = "../harrypotter.html";
+        window.location.href = "harrypotter.html";
     } else if (game == "Marvel") {
-        window.location.href = "../marvel.html";
+        window.location.href = "marvel.html";
     } else {
-        window.location.href = "../allFranchises.html";
+        window.location.href = "allFranchises.html";
     }
 }
 
 function home() {
     sessionStorage.removeItem("gameState");
     sessionStorage.removeItem("gameData");
-    window.location.href = "../index.html";
+    window.location.href = "index.html";
 }
