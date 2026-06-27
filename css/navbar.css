@@ -56,11 +56,12 @@
 }
 
 .timer {
-    font-family: Fredoka One;
+    font-family: "Fredoka One", Arial;
     border: none;
-    padding: 8px 8px 8px 12px;
+    width: 120px;
+    height: 30px;
+    padding-left: 10px;
     border-radius: 10px;
-    
 }
 
 .timer:focus {
