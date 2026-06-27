@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whozit? - Marvel MCU</title>
+    <link rel="stylesheet" href="css/originals.css">
+    <link rel="stylesheet" href="css/marvel.css">
+    <link rel="stylesheet" href="css/navbar.css">
+
+    <audio id="correctSound" src="sounds/correct.mp3"></audio>
+    <audio id="wrongSound" src="sounds/wrong.mp3"></audio>
+    <audio id="skipSound" src="sounds/skip.mp3"></audio>
+    <audio id="runningOut" src="sounds/timeRunningOut.mp3" volume="0.5"></audio>
+    <audio id="countdownSound" src="sounds/countdown.mp3"></audio>
+
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.html" class="navbar-home navbar-a">Home</a>
+    </div>
+
+        <div class="countdown" id="countdown-div"><p id="countdown">3</p></div>
+
+    <div class="container" id="container">
+        <div class="top">
+            <div class="top-left"></div>
+            <div class="top-center">
+                <p class="top-p time" id="timer">01:00</p>
+            </div>
+            <div class="top-right">
+                <p class="top-p points" id="Points">0</p>
+            </div>
+        </div>
+        <div class="center">
+            <div class="char-info">
+                <div class="char-info-left">
+                    <p class="difficulty" id="difficulty">Svårhetsgrad: <br> Lätt </p>
+                    <button class="toggle-image-btn" id="toggleImage" onclick="toggleImg()">Växla Bild</button>
+                </div>
+                <div class="char-info-right">
+                    <p class="character-name" id="char-name">Character's Name</p>
+                    <img src="" alt="" class="character-image" id="char-img">
+                </div>
+            </div>
+            <div class="right">
+                <div class="right-center">
+                    <p class="banned-words-title">Förbjudna ord:</p>
+                    <p class="banned-words-list" id="words-list"></p>
+                </div>
+            </div>
+        </div>
+        <div class="bottom">
+            <div class="bottom-center">
+                <button class="answer-btn correct" onclick="correct()">
+                    <img src="img/icons/checkmark.png" alt="" style="width: 90%; height: 90%;">
+                </button>
+                <button class="answer-btn saidWord" onclick="skip()">/</button>
+                <button class="answer-btn wrong" onclick="wrong()">X</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/marvel.js"></script>
+</body>
+</html>
