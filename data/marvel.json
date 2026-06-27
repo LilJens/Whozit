@@ -1,0 +1,250 @@
+{
+    "Iron Man": {
+        "bannedWords": {
+        "en": ["Tony Stark", "Armor", "Suit", "Avenger", "Genius"],
+        "sv": ["Tony Stark", "Rustning", "Dräkt", "Avenger", "Geni"]
+        },
+    "difficulty": 1,
+    "image": "iron_man.png"
+    },
+    "Captain America": {
+    "bannedWords": {
+        "en": ["Steve Rogers", "Shield", "Super Soldier", "Patriot", "Avenger"],
+        "sv": ["Steve Rogers", "Sköld", "Supersoldat", "Patriot", "Avenger"]
+    },
+    "difficulty": 1,
+    "image": "captain_america.png"
+    },
+    "Thor": {
+    "bannedWords": {
+        "en": ["Hammer", "Lightning", "God", "Asgard", "Brother"],
+        "sv": ["Hammare", "Blixt", "Gud", "Asgård", "Bror"]
+    },
+    "difficulty": 1,
+    "image": "thor.png"
+    },
+    "Hulk": {
+    "bannedWords": {
+        "en": ["Green", "Smash", "Bruce Banner", "Angry", "Strong"],
+        "sv": ["Grön", "Smash", "Bruce Banner", "Arg", "Stark"]
+    },
+    "difficulty": 1,
+    "image": "hulk.png"
+    },
+    "Black Widow": {
+    "bannedWords": {
+        "en": ["Natasha", "Spy", "Red Hair", "Avenger", "Russian"],
+        "sv": ["Natasha", "Spion", "Rött hår", "Avenger", "Rysk"]
+    },
+    "difficulty": 1,
+    "image": "black_widow.png"
+    },
+    "Hawkeye": {
+    "bannedWords": {
+        "en": ["Bow", "Arrow", "Clint", "Marksman", "Avenger"],
+        "sv": ["Båge", "Pil", "Clint", "Prickskytt", "Avenger"]
+    },
+    "difficulty": 1,
+    "image": "hawkeye.png"
+    },
+    "Loki": {
+    "bannedWords": {
+        "en": ["Thor", "Trickster", "Asgard", "Brother", "God"],
+        "sv": ["Thor", "Trickster", "Asgård", "Bror", "Gud"]
+    },
+    "difficulty": 1,
+    "image": "loki.png"
+    },
+    "Spider-Man": {
+    "bannedWords": {
+        "en": ["Peter Parker", "Web", "Spider", "Mask", "Friendly Neighborhood"],
+        "sv": ["Peter Parker", "Nät", "Spindel", "Mask", "Friendly Neighborhood"]
+    },
+    "difficulty": 1,
+    "image": "spider_man.png"
+    },
+    "Doctor Strange": {
+    "bannedWords": {
+        "en": ["Magic", "Wizard", "Cape", "Sorcerer", "Time"],
+        "sv": ["Magi", "Trollkarl", "Cape", "Trollkarl", "Tid"]
+    },
+    "difficulty": 1,
+    "image": "doctor_strange.png"
+    },
+    "Black Panther": {
+    "bannedWords": {
+        "en": ["Wakanda", "King", "Suit", "Vibranium", "Cat"],
+        "sv": ["Wakanda", "Kung", "Dräkt", "Vibranium", "Katt"]
+    },
+    "difficulty": 1,
+    "image": "black_panther.png"
+    },
+    "Scarlet Witch": {
+    "bannedWords": {
+        "en": ["Wanda", "Magic", "Chaos", "Vision", "Red"],
+        "sv": ["Wanda", "Magi", "Kaos", "Vision", "Röd"]
+    },
+    "difficulty": 1,
+    "image": "scarlet_witch.png"
+    },
+    "Vision": {
+    "bannedWords": {
+        "en": ["Android", "Mind Stone", "Red", "Wanda", "Robot"],
+        "sv": ["Android", "Själastenen", "Röd", "Wanda", "Robot"]
+    },
+    "difficulty": 2,
+    "image": "vision.png"
+    },
+    "Ant-Man": {
+    "bannedWords": {
+        "en": ["Scott Lang", "Small", "Shrink", "Suit", "Insect"],
+        "sv": ["Scott Lang", "Liten", "Krympa", "Dräkt", "Insekt"]
+    },
+    "difficulty": 1,
+    "image": "ant_man.png"
+    },
+    "Wasp": {
+    "bannedWords": {
+        "en": ["Hope", "Wings", "Shrink", "Ant-Man", "Suit"],
+        "sv": ["Hope", "Vingar", "Krympa", "Ant-Man", "Dräkt"]
+    },
+    "difficulty": 2,
+    "image": "wasp.png"
+    },
+    "Captain Marvel": {
+    "bannedWords": {
+        "en": ["Carol Danvers", "Space", "Pilot", "Photon", "Power"],
+        "sv": ["Carol Danvers", "Rymden", "Pilot", "Foton", "Kraft"]
+    },
+    "difficulty": 2,
+    "image": "captain_marvel.png"
+    },
+    "Falcon": {
+    "bannedWords": {
+        "en": ["Sam Wilson", "Wings", "Flight", "Captain America", "Bird"],
+        "sv": ["Sam Wilson", "Vingar", "Flyga", "Captain America", "Fågel"]
+    },
+    "difficulty": 2,
+    "image": "falcon.png"
+    },
+    "Winter Soldier": {
+    "bannedWords": {
+        "en": ["Bucky", "Metal Arm", "Brainwashed", "Captain America", "Assassin"],
+        "sv": ["Bucky", "Metallarm", "Hjärntvättad", "Captain America", "Lönnmördare"]
+    },
+    "difficulty": 2,
+    "image": "winter_soldier.png"
+    },
+    "Star-Lord": {
+    "bannedWords": {
+        "en": ["Peter Quill", "Guardians", "Cassette", "Space", "Leader"],
+        "sv": ["Peter Quill", "Guardians", "Kassett", "Rymden", "Ledare"]
+    },
+    "difficulty": 2,
+    "image": "star_lord.png"
+    },
+    "Gamora": {
+    "bannedWords": {
+        "en": ["Green", "Thanos", "Sword", "Guardian", "Daughter"],
+        "sv": ["Grön", "Thanos", "Svärd", "Guardian", "Dotter"]
+    },
+    "difficulty": 2,
+    "image": "gamora.png"
+    },
+    "Drax": {
+    "bannedWords": {
+        "en": ["Tattoos", "Literal", "Strong", "Guardian", "Destroyer"],
+        "sv": ["Tatueringar", "Bokstavlig", "Stark", "Guardian", "Förgörare"]
+    },
+    "difficulty": 2,
+    "image": "drax.png"
+    },
+    "Rocket": {
+    "bannedWords": {
+        "en": ["Raccoon", "Gun", "Guardian", "Small", "Talking"],
+        "sv": ["Tvättbjörn", "Vapen", "Guardian", "Liten", "Pratar"]
+    },
+    "difficulty": 2,
+    "image": "rocket.png"
+    },
+    "Groot": {
+    "bannedWords": {
+        "en": ["Tree", "Wood", "Guardian", "Baby", "Branch"],
+        "sv": ["Träd", "Trä", "Guardian", "Baby", "Gren"]
+    },
+    "difficulty": 1,
+    "image": "groot.png"
+    },
+    "Thanos": {
+    "bannedWords": {
+        "en": ["Infinity", "Gauntlet", "Purple", "Snap", "Titan"],
+        "sv": ["Infinity", "Handske", "Lila", "Knäppning", "Titan"]
+    },
+    "difficulty": 1,
+    "image": "thanos.png"
+    },
+    "Ultron": {
+    "bannedWords": {
+        "en": ["Robot", "AI", "Iron Man", "Metal", "Villain"],
+        "sv": ["Robot", "AI", "Iron Man", "Metall", "Skurk"]
+    },
+    "difficulty": 2,
+    "image": "ultron.png"
+    },
+    "Nick Fury": {
+    "bannedWords": {
+        "en": ["Eyepatch", "S.H.I.E.L.D.", "Director", "Spy", "One Eye"],
+        "sv": ["Ögonlapp", "S.H.I.E.L.D.", "Direktör", "Spion", "Ett öga"]
+    },
+    "difficulty": 1,
+    "image": "nick_fury.png"
+    },
+    "Red Skull": {
+    "bannedWords": {
+        "en": ["Hydra", "Nazi", "Red", "Captain America", "Skull"],
+        "sv": ["Hydra", "Nazist", "Röd", "Captain America", "Skalle"]
+    },
+    "difficulty": 2,
+    "image": "red_skull.png"
+    },
+    "Green Goblin": {
+    "bannedWords": {
+        "en": ["Pumpkin Bomb", "Glider", "Mask", "Spider-Man", "Norman Osborn"],
+        "sv": ["Pumpabomb", "Glidare", "Mask", "Spider-Man", "Norman Osborn"]
+    },
+    "difficulty": 2,
+    "image": "green_goblin.png"
+    },
+    "Venom": {
+    "bannedWords": {
+        "en": ["Symbiote", "Black", "Tongue", "Alien", "Eddie Brock"],
+        "sv": ["Symbiot", "Svart", "Tunga", "Utomjording", "Eddie Brock"]
+    },
+    "difficulty": 2,
+    "image": "venom.png"
+    },
+    "Deadpool": {
+    "bannedWords": {
+        "en": ["Red", "Mercenary", "Fourth Wall", "Swords", "Funny"],
+        "sv": ["Röd", "Legosoldat", "Fjärde väggen", "Svärd", "Rolig"]
+    },
+    "difficulty": 2,
+    "image": "deadpool.png"
+    },
+    "Wolverine": {
+    "bannedWords": {
+        "en": ["Claws", "X-Men", "Healing", "Logan", "Adamantium"],
+        "sv": ["Klor", "X-Men", "Läker", "Logan", "Adamantium"]
+    },
+    "difficulty": 2,
+    "image": "wolverine.png"
+    },
+    "Nebula": {
+        "bannedWords": {
+            "en": ["Sister", "Gamora", "Cyborg", "Blue", "Thanos"],
+            "sv": ["Syster", "Gamora", "Cyborg", "Blå", "Thanos"]
+        },
+        "difficulty": 2,
+        "image": "nebula.png"
+    }
+}
