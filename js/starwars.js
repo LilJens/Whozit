@@ -137,7 +137,7 @@ function startTimer() {
 }
 
 async function randomizeCharacter() {
-    const response = await fetch("../data/starwars.json");
+    const response = await fetch("data/starwars.json");
     const characters = await response.json();
 
     const names = Object.keys(characters);
