@@ -21,3 +21,13 @@ function startHarrypotter() {
     sessionStorage.removeItem("gameData");
     window.location.href = "harrypotter.html";
 }
+
+function startMarvel() {
+    const timer = document.getElementById("timerInput").value;
+    sessionStorage.setItem("startTimer", timer)
+    sessionStorage.setItem("timer", timer);
+
+    sessionStorage.removeItem("gameState");
+    sessionStorage.removeItem("gameData");
+    window.location.href = "marvel.html";
+}

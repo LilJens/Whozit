@@ -163,7 +163,8 @@ async function randomizeCharacter() {
     const difficulties = {
         1: "Lätt",
         2: "Medium",
-        3: "Svårt"
+        3: "Svårt",
+        4: "Ball-knowledge"
     }
 
     char.textContent = randomName;

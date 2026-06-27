@@ -137,7 +137,7 @@ function startTimer() {
 }
 
 async function randomizeCharacter() {
-    const response = await fetch("data/starwars.json");
+    const response = await fetch("data/marvel.json");
     const characters = await response.json();
 
     const names = Object.keys(characters);
@@ -173,7 +173,7 @@ async function randomizeCharacter() {
         image.src = "img/icons/GoatAsianDude.png";
     };
 
-    image.src = "img/starwars/" + randomCharacter.image
+    image.src = "img/marvel/" + randomCharacter.image
     difficulty.innerHTML = "Svårhetsgrad: <br>" + difficulties[difficultyNumber];
     alreadyShownCharacters.push(randomName);
 
@@ -267,7 +267,7 @@ function endGame() {
         wrong: Wrong,
         skipped: Skipped,
         guesses: guessedCharacters,
-        game: "Starwars"
+        game: "Marvel"
     };
 
     sessionStorage.setItem(
