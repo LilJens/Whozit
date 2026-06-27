@@ -9,7 +9,7 @@ function startStarwars() {
 
     sessionStorage.removeItem("gameState");
     sessionStorage.removeItem("gameData");
-    window.location.href = "/starwars.html";
+    window.location.href = "starwars.html";
 }
 
 function startHarrypotter() {
@@ -19,5 +19,5 @@ function startHarrypotter() {
 
     sessionStorage.removeItem("gameState");
     sessionStorage.removeItem("gameData");
-    window.location.href = "/harrypotter.html";
+    window.location.href = "harrypotter.html";
 }
