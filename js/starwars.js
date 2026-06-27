@@ -137,7 +137,7 @@ function startTimer() {
 }
 
 async function randomizeCharacter() {
-    const response = await fetch("/data/starwars.json");
+    const response = await fetch("../data/starwars.json");
     const characters = await response.json();
 
     const names = Object.keys(characters);
@@ -167,7 +167,7 @@ async function randomizeCharacter() {
     }
 
     char.textContent = randomName;
-    image.src = "/img/starwars/" + randomCharacter.image
+    image.src = "../img/starwars/" + randomCharacter.image
     difficulty.innerHTML = "Svårhetsgrad: <br>" + difficulties[difficultyNumber];
     alreadyShownCharacters.push(randomName);
 
